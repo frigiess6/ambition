@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
